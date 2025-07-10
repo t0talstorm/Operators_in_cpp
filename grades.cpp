@@ -1,7 +1,7 @@
 // Name - Aditya Ishan Sinha 
 // PRN - 24070123006
 // Batch - EnTC - A1 
-// Expt - 3a
+// Expt - 3B
 
 #include <iostream>
 #include <string>
