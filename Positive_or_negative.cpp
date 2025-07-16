@@ -4,7 +4,6 @@
 // Expt - 3A
 
 #include <iostream>
-#include <string>
 using namespace std;
 
 int main() {
@@ -21,3 +20,16 @@ int main() {
     
     return 0;
 }
+/*
+OUTPUT:
+
+Please enter a number : -45
+The number -45 is negative
+
+=== Code Execution Successful ===    
+
+Please enter a number : 22
+The number 22 is positive
+
+=== Code Execution Successful ===
+*/
